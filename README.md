@@ -7,7 +7,8 @@
 [![IMG](https://i.postimg.cc/gcBKc1VV/IMG-20240719-225055-520.png)](https://gmonad.tech)
 [![IMG-2.png](https://i.postimg.cc/x1LGRCW5/IMG-20240719-225055-083.png)](https://gmonad.tech)
 
-`` <div class="text-center text-gray-500 dark:text-gray-400">
+```
+ <div class="text-center text-gray-500 dark:text-gray-400">
     <img class="mx-auto mb-4 w-36 h-36 rounded-full"
         src=" IMAGE "
         alt=" IMAGE ">
@@ -66,5 +67,6 @@
                 </svg></a>
         </li>
     </ul>
-</div> ``
+</div>
+```
 
